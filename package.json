@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcrc/npm-hello-dcarpioro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidcrc/npm-hello-dcarpioro/issues"
+  },
+  "homepage": "https://github.com/davidcrc/npm-hello-dcarpioro#readme"
 }
