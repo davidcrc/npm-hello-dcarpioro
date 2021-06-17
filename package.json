@@ -1,6 +1,6 @@
 {
   "name": "npm-hello-dcarpioro",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This s a dummy packgae for test",
   "main": "src/index.js",
   "scripts": {
